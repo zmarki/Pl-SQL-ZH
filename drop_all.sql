@@ -1,0 +1,9 @@
+drop procedure leltár;
+drop procedure ujalapanyag;
+drop function holvan;
+drop view alapa_nez;
+drop table naplo;
+drop table hasznal;
+drop table termek;
+drop table alapanyag;
+drop table alapa_tipus;
